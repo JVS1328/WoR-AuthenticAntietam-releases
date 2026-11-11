@@ -1,0 +1,3 @@
+Every regiment and battery in War of Rights dressed as it really was in the Maryland Campaign, 12-17 September 1862 (South Mountain, Harpers Ferry, Antietam), to a careful reenactor's standard: researched jackets, shirts, trousers, hats, insignia, kit and shoes for every class, period item names, and three regiments renamed to units that fought on their ground (10th Maine, 59th New York, 10th Louisiana) with their own colours and portraits.
+
+Client-side only. You can join normal servers; other players don't need the mod and will see the vanilla game. Can't run alongside the Crimean War, Mexican-American War or 1812 mods.

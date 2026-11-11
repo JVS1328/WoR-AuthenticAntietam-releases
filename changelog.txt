@@ -1,0 +1,7 @@
+Authentic Antietam 1.1.1 - updated for the November 4 game patch
+
+- Rebuilt against the War of Rights patch of November 4, 2026. The patch changed the stock Confederate officers' trousers; the mod's officer-stripe trousers now follow the new stock items, so every wardrobe loads as intended.
+- First release through the WoR Mod Manager. Everything from 1.1 is included: every regiment and battery dressed for September 1862, every class and category, period item names, and the 10th Maine, 59th New York and 10th Louisiana with their own colours and portraits.
+- Still client-side only: you can join normal servers, and other players see the vanilla game.
+
+Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
