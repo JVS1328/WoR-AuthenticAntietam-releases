@@ -1,7 +1,35 @@
-Authentic Antietam 1.1.1 - updated for the November 4 game patch
+Authentic Antietam 1.2.0 - player reports and the regiments that really fought on each map
 
-- Rebuilt against the War of Rights patch of November 4, 2026. The patch changed the stock Confederate officers' trousers; the mod's officer-stripe trousers now follow the new stock items, so every wardrobe loads as intended.
-- First release through the WoR Mod Manager. Everything from 1.1 is included: every regiment and battery dressed for September 1862, every class and category, period item names, and the 10th Maine, 59th New York and 10th Louisiana with their own colours and portraits.
+- Fixed the long "antenna" sticking up out of officers' forage caps and kepis when they wore the embroidered bugle badge with a regiment number. It came from a broken badge mesh that drew stray triangles. This was also behind the clothing that sometimes stretched across the sky.
+- Fixed the open sack coat on Union officers showing no shirt underneath. It now takes full-front shirts.
+- Fixed the pale, flat patch on the sides of Confederate knapsacks (the Kibler pack and its painted versions). The sides are now duck cloth like the rest of the pack, and pack, roll, belt and haversack textures no longer bleed light edges at a distance.
+- Fixed the shine on the mod's new coats. Their gloss textures were only half written, so they could look too shiny or blotchy at a distance.
+- Fixed Confederate battery 1st lieutenants wearing a 2nd lieutenant's single collar bar. They now wear two bars, and every battery officer's rank insignia was checked.
+- Fixed the leather visors on Confederate caps and kepis rendering too light, and the Berdan Sharpshooters' caps losing their green tint.
+- 19 regiments and batteries now carry the names of the units that actually fought on their maps, using the Antietam on the Web and National Park Service battle maps. Each has its own name, description, flags, drums, portraits and uniform. New in this version:
+  - 1st NC Sharpshooters -> 46th North Carolina
+  - 2nd South Carolina -> 48th North Carolina
+  - 3rd South Carolina -> 7th Georgia
+  - 8th Alabama -> 8th Georgia
+  - 8th Florida -> 9th Georgia
+  - Palmetto Sharpshooters -> 1st South Carolina (Provisional Army)
+  - Hampton's Legion -> 11th Mississippi
+  - Battery Blackshear -> Parker's Virginia Battery
+  - 42nd Pennsylvania -> 13th Pennsylvania Reserves "Bucktails"
+  - 32nd Pennsylvania -> 3rd Pennsylvania Reserves
+  - 17th Michigan -> 100th Pennsylvania "Roundheads"
+  - 14th Indiana -> 53rd Pennsylvania
+  - 28th Pennsylvania -> 66th Ohio
+  - 52nd New York -> 102nd New York
+  - 51st New York -> 6th New Hampshire
+  - 20th New York -> 4th Vermont
+  - Battery Edgell -> Woodruff's Battery I, 1st US
+- The renamed units are dressed as they really were: the Bucktails with the deer tail on every cap, worn on either side; G.T. Anderson's Georgians in worn Georgia jackets, with barefoot men (the 1st Georgia Regulars now get barefoot options too); the 1st South Carolina in Federal gear taken at Harpers Ferry; Parker's "Boy Company" with mostly beardless young gunners; the 4th Vermont in the corded hat; Woodruff's regulars with their battery's own hat brass.
+- Confederate belt plates: the stamped "CS" oval is back as the most common plate, with a new field-worn version. Captured US plates are now a small minority, kept for the units that drew on Federal stores.
+- Union dark-blue trousers are now mostly worn and faded first-year cloth. Fresh dark blue stays only with the Iron Brigade.
+- The 5th New York can again pick its worn zouave jacket and fez beside the regulation uniform.
+- The 5th New York Heavy Artillery wears the scarlet-piped artillery frock, with the red-corded dress hat on some men.
+- New regiment numbers on the hat brass for all the renamed Union regiments.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
