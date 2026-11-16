@@ -2,6 +2,8 @@ Authentic Antietam 1.2.1 - officers' rank insignia and gunners' forearms
 
 - Fixed officers being offered another rank's insignia. A 2nd lieutenant could wear a 1st lieutenant's two collar bars, a captain a lieutenant's, and so on. About 650 wardrobe items were affected. Every officer's choices now carry only their own rank's insignia, including a few the base game itself had wrong (1st Virginia Cavalry lieutenants, a Balthis lieutenant colonel).
 - Fixed shirt-sleeve gunners in 32 battery crews having no forearms, their hands floating at the rolled-up sleeve. They now have bare forearms like the game's own shirt-sleeve men.
+- Fixed the officer portraits on the class-selection screen of nine renamed Union regiments showing the officer with no shins (boot-cut trousers drawn over low shoes): 100th PA, 53rd PA, 13th and 3rd PA Reserves, 102nd NY, 66th Ohio, 6th NH, 10th Maine and 59th NY.
+- Please update: players on different versions of the mod can see each other's kits mixed up (another pair of trousers or shoes, sometimes missing shins).
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
